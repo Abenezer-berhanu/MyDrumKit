@@ -39,3 +39,39 @@
           text-align: center;
           opacity: 1;
 }
+.w{
+          background-image: url(./alan.jpeg);
+          background-position: center;
+          background-size: cover;
+}
+.a{
+          background-image: url(./alok.jpeg);
+          background-position: center;
+          background-size: cover;
+}
+.s{
+          background-image: url(./BNXN.jpg);
+          background-position: center;
+          background-size: cover;
+}
+.d{
+          background-image: url(./fireboy.jpeg);
+          background-position: center;
+          background-size: cover;
+}
+
+.j{
+          background-image: url(./justin.jpeg);
+          background-position: center;
+          background-size: cover;
+}
+.k{
+          background-image: url(./libiance.jpeg);
+          background-position: center;
+          background-size: cover;
+}
+.l{
+          background-image: url(./alan.jpeg);
+          background-position: center;
+          background-size: cover;
+}
